@@ -1,6 +1,6 @@
 # bioinformatica-backend
 
-*Grupo 5: Cuoco,Carlos - Markon,Mariano -Verdacanna Mariano* 
+*Grupo 3: Cuoco,Carlos - Markon,Mariano -Verdacanna Mariano* 
 
 ## Instalacion Clustal
 - Descargar paquete para tu sistema operativa [Link](http://www.clustal.org/download/current/)
